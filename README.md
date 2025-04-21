@@ -1,4 +1,4 @@
 # owhiting
 GEOG3540/owhiting - Olivia Whiting
 
-This is my portfolio for GEOG:3540 Geographic Visualization
+This is repository of my portfolio for GEOG:3540 Geographic Visualization
